@@ -7,7 +7,7 @@ import utils
 
 class TestUtils(unittest.TestCase):
     def test_fact(self):
-        assertTrue(0)
+        self.assertTrue(0)
         
     
     def test_roots(self):
