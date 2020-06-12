@@ -4,7 +4,8 @@
 #je change pour voir 
 
 def fact(n):
-    return 0
+    n=0
+    return n
 
 def roots(a, b, c):
     """Computes the roots of the ax^2 + bx + x = 0 polynomial.
