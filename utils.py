@@ -1,6 +1,7 @@
 # Math library
 # Author: Sébastien Combéfis
 # Version: February 2, 2016
+#je change pour voir 
 
 def fact(n):
     """Computes the factorial of a natural number.
